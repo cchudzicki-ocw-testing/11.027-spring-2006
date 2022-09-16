@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides information about the overview of the course,
+  recommended readings and six major parts of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
